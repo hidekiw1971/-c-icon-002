@@ -1,0 +1,28 @@
+@use "global" as *;
+
+span {
+    display: block;
+    width: rem(0);
+    border-top: rem(30) solid rgba(255, 0, 0, 0.5);
+    border-right: rem(30) solid transparent;
+    border-bottom: rem(30) solid transparent;
+    border-left: rem(30) solid rgba(255, 0, 0, 0.5);
+    position: relative;
+
+    @include mq(md) {
+        // 
+    }
+}
+
+span::before {
+    content: "New";
+    display: block;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translate(-70%, -70%) rotate(-45deg);
+
+    @include mq(md) {
+        // 
+    }
+}
