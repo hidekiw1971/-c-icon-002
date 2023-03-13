@@ -1,7 +1,7 @@
-画像をコピペ
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/99580997/224850120-2379841a-5659-402b-9414-a36a3053300d.png">
 
 # compornent（共通部品）
-- 説明
+- 三角形（カードでNewなどの表示に使用できる。）
 
 # w3c html/css ck
 - confirmed
