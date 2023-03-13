@@ -26,7 +26,7 @@
 - https://xxx
 
 ## reference site:
-- 
+- https://www.ameamelog.com/border-triangle/
 
 ## 更新履歴
 
